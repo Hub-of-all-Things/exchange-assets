@@ -119,11 +119,11 @@ We will not be in breach of this Owner TOS if the failure to perform any of our 
 
 If despite the exclusions and limitation above we are found liable by a court of law or regulatory authority for any loss or damage which arises out of or in connection in any way connected with our performance of this Owner TOS, then our maximum total aggregate liability will in no event exceed one month&#39;s subscription fee.
 
-## 9.Test Services
+## 9. Test Services
 
 Please note that we occasionally release services that we would like to test or evaluate on the Platform.  They will be marked as &#39;beta&#39;, &#39;preview&#39;, &#39;early access&#39;, &#39;evaluation&#39; or similar terms (&quot; **Test Services**&quot;).  You acknowledge that such Test Services may not be as reliable as other HAT services or features provided by us and subject to this Owner TOS.
 
-## 10.Downloading or Using Software for Services
+## 10. Downloading or Using Software for Services
 
 Some of our Services allow you to download and use client software (&quot; **Software**&quot;), which may be updated automatically.  As long as you comply with this Owner TOS you have a limited, non-exclusive, non-transferable, revocable licence to use the Software solely to access and use the Services and Platform.
 
@@ -138,6 +138,7 @@ Unless the following restrictions are prohibited by law you agree not to:
 * e) assist anyone in carrying out or attempting to carry out any of the above restricted activities.
 
 
+
 ## 11. We May Make Changes to the Terms
 
 We may revise our Terms from time to time and will post the most current version on our website when the revised Terms become effective.
@@ -145,6 +146,7 @@ We may revise our Terms from time to time and will post the most current version
 If there are any material changes to our Terms that affect your legal rights as an Owner of a HAT Microserver or user of DataBuyer, we will notify you by sending a message to the email address associated with your account at least 15 days before the changes take effect.
 
 You accept the revised Terms by continuing to use or access the Services after any revisions come into effect.  In this case you are bound by and HATDeX will treat you as bound by the revised Terms from the date on which the revised Terms entered into effect.  You are free to end this Agreement at any time should you choose not to accept the revised Terms.
+
 
 ## 12. Changes to the HATDeX Platform and Services
 
@@ -207,6 +209,7 @@ If we fail or delay to enforce a provision of the Terms this failure or delay is
 
 This Owner TOS constitutes the entire agreement between you and us when it comes to the subject matter of this Owner TOS and supersedes and replaces any other prior or contemporaneous agreements, or terms and conditions applicable to the subject matter of this Owner TOS.
 
+
 ## 18. Dispute Resolution
 
 Our approach is to resolve any disputes between us without going to court and you agree that in the case of any disputes we will resolve such a dispute using the following escalation process.  If you only wish to raise a complaint then please contact us at contact@hatdex.org.
@@ -218,6 +221,7 @@ Our approach is to resolve any disputes between us without going to court and yo
 **Step 3:** You can write to HAT Community Foundation (the &quot; **Regulator**&quot;) which is the regulator of the HATDeX Platform at the following email address: contact@hatcommunity.org.  The Regulator is a not-for-profit company whose role is to regulate the HATDeX Platform for the public benefit.
 
 **Step 4:** If we are not able to resolve the dispute between us within 30 working days from the Notification Date then either party will be entitled to go take legal proceedings in a court of law.
+
 
 ## 19. Disputes with Third Parties
 
