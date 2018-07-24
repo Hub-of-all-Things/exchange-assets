@@ -137,9 +137,7 @@ Unless the following restrictions are prohibited by law you agree not to:
 * d) attempt any of the above restricted activities
 * e) assist anyone in carrying out or attempting to carry out any of the above restricted activities.
 
-
-
-## 11. We May Make Changes to the Terms
+## 11. We May Make Changes to the Terms
 
 We may revise our Terms from time to time and will post the most current version on our website when the revised Terms become effective.
 
@@ -148,7 +146,7 @@ If there are any material changes to our Terms that affect your legal rights as 
 You accept the revised Terms by continuing to use or access the Services after any revisions come into effect.  In this case you are bound by and HATDeX will treat you as bound by the revised Terms from the date on which the revised Terms entered into effect.  You are free to end this Agreement at any time should you choose not to accept the revised Terms.
 
 
-## 12. Changes to the HATDeX Platform and Services
+## 12. Changes to the HATDeX Platform and Services
 
 We may update and change the HATDeX Platform from time to time to, amongst other things, reflect changes to our users&#39; needs and our business priorities.  We will try to give you reasonable notice of any major changes.
 
@@ -161,7 +159,7 @@ When you use the Services you will at all times observe these Terms and any appl
 
 HATDeX will use commercially reasonable efforts to (a) ensure that the Services are available to you without undue disruption, interruption or delay, and (b) keep any disruption, interruption or delay of the Services to a minimum.
 
-## 13. Maintenance &amp; Outages
+## 13. Maintenance &amp; Outages
 
 We reserve the right to conduct activities necessary for the maintenance and support of the HATDeX Platform.  You agree to reasonably cooperate with us to investigate service outages or suspected breaches of the Terms or applicable laws.
 
@@ -210,7 +208,7 @@ If we fail or delay to enforce a provision of the Terms this failure or delay is
 This Owner TOS constitutes the entire agreement between you and us when it comes to the subject matter of this Owner TOS and supersedes and replaces any other prior or contemporaneous agreements, or terms and conditions applicable to the subject matter of this Owner TOS.
 
 
-## 18. Dispute Resolution
+## 18. Dispute Resolution
 
 Our approach is to resolve any disputes between us without going to court and you agree that in the case of any disputes we will resolve such a dispute using the following escalation process.  If you only wish to raise a complaint then please contact us at contact@hatdex.org.
 
@@ -223,7 +221,7 @@ Our approach is to resolve any disputes between us without going to court and yo
 **Step 4:** If we are not able to resolve the dispute between us within 30 working days from the Notification Date then either party will be entitled to go take legal proceedings in a court of law.
 
 
-## 19. Disputes with Third Parties
+## 19. Disputes with Third Parties
 
 The Services may contain hyperlinks to content resources and services of third parties, including other websites.  HATDeX is not responsible for and has no control over the content (including advertisements, products and other materials) provided, made available and/or displayed to you under these circumstances and is not liable for any damage or loss incurred by you due to or as a result of the content (including any reliance by you on the availability, accuracy, applicability or completeness of the content) which is made available to you, provided to you or displayed to you through third party sources.
 
